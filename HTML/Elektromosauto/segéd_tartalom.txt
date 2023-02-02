@@ -1,0 +1,41 @@
+1. Nincs helyi légszennyezés
+2. Nincs finom rezonancia
+3. Nincs zajszennyezés
+4. Akár minden reggel maximális hatótáv
+5. Nyomatékos villanymotor, dinamikus gyorsulás
+5. Nyomatékos villanymotor, dinamikus gyorsulás
+6. Alacsony üzemanyagköltség
+7. Olajimporttól független üzemanyag
+8. Olcsóbb karbantartás
+9. Egyszerűbb hajtáslánc, kevesebb meghibásodás
+10. Ingyenes parkolás
+
+1. Nincs helyi légszennyezés
+Az elektromos autó nem szennyezi a közvetlen környezetét, és ha az elektromos áramot környezetbarát módon állítjuk elő, akkor az elektromos autó máshol sem szennyez. A hazai áramtermelés kétharmada már ma is lényegében kibocsátásmentes (~48% atomenergia, ~12% megújuló), ráadásul a maradék rész kétharmada is földgáz. A Magyarországon megtermelt áram kevesebb mint 12%-a mögött van szén.
+
+2. Nincs finom rezonancia
+A belsőégésű motorok szüntelenül ismétlődő robbanások energiáját igyekeznek forgómozgássá alakítani, miközben megállás nélkül rázzák az autó karosszériáját, illetve a benne ülő utasokat. Ehhez annyira hozzászoktunk, hogy már nem is vesszük észre. Legalábbis mindaddig, amíg át nem ülünk egy elektromos meghajtású autóba. A villanyautóban nincs alapjáraton járó motor, nincsenek robbanások, csak az észrevétlenül forgó elektromotor. Persze az is csak akkor, amikor az autót mozdítani kell, hiszen álló helyzetben az elektromotor is áll.
+
+3. Nincs zajszennyezés
+Nincs robbanás, nincs kipufogódob, nincs zaj. Mindössze a gumik és a menetszél, illetve az elektromotorok halkan süvítő hangja.
+
+4. Akár minden reggel maximális hatótáv
+Nem kell benzinkútra járni, benzingőzt szívni, kasszánál sorbaállni, hiszen a villanyautó az otthoni töltőről akár minden éjjel teletölthető. Reggelente vagy munkahelyi töltés esetén a munkaidő végén teletöltött akkumulátor várja az autóst.
+
+5. Nyomatékos villanymotor, dinamikus gyorsulás
+A villanymotor folyamatosan elérhető nyomatékának köszönhetően az erő bármikor az autós rendelkezésére áll. Nincs megtorpanás, nincs turbólyuk, nincs sebességváltás. Csak kényelmes és élvezetes gyorsulás. Az autók padlójába épített akkumulátor miatt az autók súlypontja alacsony, ami növeli a stabilitást és javítja a vezetési élményt.
+
+6. Alacsony üzemanyagköltség
+Az elektromos árammal egy km költsége sokkal alacsonyabb, mint benzinnel vagy gázolajjal. A hagyományos üzemanyagokra átszámítva nagyjából 2 liternyivel lehet 100 km-t megtenni egy középkategóriás villanyautóval, de a kisebb autók még ennél is kevesebbet fogyasztanak. 15-20 ezer km-es éves futásteljesítmény mellett ez akár több százezer forintos megtakarítást is jelenthet.
+
+7. Olajimporttól független üzemanyag
+Az autóba töltendő elektromos áram akár otthon, saját rendszerben (napelem, szélerőmű, stb.) is előállítható. A közlekedés költsége nem függ közvetlenül a nemzetközi olajáraktól. Az elektromos áram iparilag számos különböző módon is előállítható, így nem csak az egyén, de az ország olajfüggősége is csökken.
+
+8. Olcsóbb karbantartás
+Fékezéskor az autó mozgási energiája nem vész el a féktárcsának nyomódó fékbetétek súrlódásakor, hanem az elektromotort generátorként hajtva elektromos árammá alakul. Ez az energia az autó következő felgyorsításakor újra felhasználható. Ezzel nem csak a városi fogyasztás csökkenthető drasztikusan, de jelentősen csökken a fékbetétek és féktárcsák kopása is. A legtöbb villanyautóban valószínűleg sosem fognak féktárcsát cserélni, azok annyira nem kopnak.
+
+9. Egyszerűbb hajtáslánc, kevesebb meghibásodás
+Nincs önindító, nincs turbó, nincs kettős tömegű lendkerék, nincs váltómű, nincs kipufogó rendszer, nincs kardántengely. És nem utolsó sorban nincs olajcsere, ami nem csak a költségeket, de az ártalmatlanítandó fáradt olaj mennyiségét is jelentősen csökkenti.
+
+10. Ingyenes parkolás
+Budapesten és a város sok pontján a zöld rendszámmal ellátott villanyautók minden közterületi parkolóban ingyen parkolhatnak, ezzel ösztönözve mindenkit arra, hogy a városban való közlekedéshez kibocsátásmentes járművet használjon.

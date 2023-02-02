@@ -1,0 +1,26 @@
+class Híres_film:
+    def __init__(self,cím,hossz,nemzetiseg): #Ez a konstruktor
+
+        self.cím=cím
+        self.hossz=hossz
+        self.nemzetiseg=nemzetiseg
+    def elotag(self):
+        if self.nemzetiseg:
+            return "Angol"
+        else:
+            return "Amerikai" #Egységbezárás
+
+    def óraperc(self):
+        óra=hossz//60
+        perc=hossz-óra*60
+        return 
+   
+
+film=[]
+for _ in range (3):
+    cím=input("Kérem adjon meg egy film címét")
+    hossz=int(input("Kérem adja meg a hosszát! "))
+    nemzetiség=input("Kérem adje meg a nemzetiségét! ")
+#lehet más tulajdonsága is
+    filmek=Híres_film(cím,hossz,nemzetiség) #Példány
+    film.append(filmek)

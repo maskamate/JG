@@ -1,0 +1,39 @@
+
+Elektromos autó
+
+Az elektromos autó kifejezéshez szinte mindenki más-más képzetet társít, ami részben érthetõ, hiszen az elektromos meghajtás sokféle formában került már bele a közlekedési eszközök különbözõ fajtáiba. Éppen emiatt a sokszínûség miatt nem is szükséges, hogy az elektromos autó kategóriáról mindenkinek ugyanaz jusson az eszébe.
+
+
+Mi az az elektromos autó?
+Az elektromos autó egy egy vagy több elektromos motor által hajtott közlekedési eszköz. A meghajtáshoz szükséges elektromos áramot akkumulátorban vagy más energiatároló eszközben viszi magával. A villanyautósok többsége egyetért abban, hogy az elektromos autó elnevezést kizárólag a tisztán elektromos, tehát belsõ égésû motort nem használó jármûvekre használjuk, de a köznyelvben nagyon sokszor a más erõforrásokkal különbözõ módon kombinált, tehát hibrid autókat is elektromos autó néven illetik.
+
+
+Az elektromos autók fajtái
+A tisztán elektromos autók korlátainak kompenzálására az elektromos meghajtást a gyártók a vevõk megnyugtatása céljából gyakran más meghajtási formákkal kombinálják.
+
+Hibrid autó
+Olyan, elsõdlegesen robbanómotoros jármû (többnyire benzines, de dízeles változatok is léteznek), amiben a hajtást elektromotor(ok) is segítik. Az autó egy kis kapacitású akkumulátorban tárolja a regeneratív fékezéskor termelt energiát, amit gyorsításkor vagy folyamatos haladáskor is fel tud használni az autó mozgatására. A hibrid autók egy része képes tisztán elektromos üzemben is menni néhány km-t, de van olyan modell is, amiben az elektromotorok csak a gyorsításhoz szükséges energiatöbbletet biztosítják.  A fogyasztás csökkenését ezek az autók a fékezéskor visszanyert energia újrahasznosításával érik el. Ezek az autók külsõ áramforrásból nem tölthetõk, és az akkumulátoruk maximum néhány km-es tisztán elektromos meghajtáshoz tudnak elég energiát eltárolni. A Toyota vitte sikerre a Prius modellel, de szinte már minden autógyár kínál ilyen autókat, amelyekben a Prius elõtörténetét ismerve a vásárlók megbíznak.
+
+
+
+Konnektoros (plug-in) hibrid
+Az elõzõ kategória nagyobb akkumulátorral és külsõ töltési lehetõséggel felvértezett változata. A tisztán elektromos hatótáv 20-50 km-re nõ, amit rendszerint csak labor körülmények közt tudnak elérni. A fûtés vagy a hûtés bekapcsolásakor sokszor azonnal indul a belsõ égésû motor, hiszen az elõzõ megoldáshoz hasonlóan az számít az elsõdleges meghajtási formának. Bár elméletileg többet kínálnak a sima hibrid autóknál, a gyakorlatban ez az elõny csak az autós folyamatos odafigyelése esetén (amikor csak lehet tölti az akkumulátort) jelentkezik. Az autóst semmi sem kényszeríti arra, hogy az elektromos meghajtást használja. A kategória angol elnevezése (plug-in hibrid electric vehicle) alapján ezek az autók gyakran a PHEV jelölést kapják. (Környezetvédelmi besorolás: 5P)
+
+
+Hatótáv növelt elektromos autó
+A hatótáv növelt elektromos autók már tisztán elektromotorokkal hajtott jármûvek, amelyekbe a gyártó egy kis méretû, áramtermelési célra optimalizált benzinmotort is szerel. A benzinmotor feladata, hogy szükség esetén töltse az akkumulátort, hogy nagyobb távok is megtehetõk legyenek külsõ akkumulátortöltés nélkül is. Ezek az autók teljes értékû elektromos autóként is használhatók, hiszen 100-150 km megtételére is képesek tisztán elektromos üzemben. Az ilyen jármûvek tulajdonosai a mindennapi életben általában nem is használják az áramfejlesztõt, az csak a hosszabb utakon segít a továbbjutásban, illetve megléte megnyugtatóan hat a sofõr számára. A vásárlók nagy tömegének villanyautókkal kapcsolatos bizalmatlansága miatt óriási sikere van, hiszen megadja a valódi lehetõséget a tisztán elektromos autózásra, miközben a kiforrott technológia által biztosított „korlátlan” hatótávról sem kell lemondani. Hátránya a tisztán elektromos meghajtással szemben, hogy a kiegészítõ motor miatt továbbra is szükség van a sok alkatrészt rejtõ, bonyolult, és karbantartásigényes robbanómotorra is, ami jócskán megemeli az árat és a fenntartási költségeket. A hatótáv növelõ kifejezés angol megfelelõje (range extender) alapján az ilyen autókat gyakran REX betûszóval is jelölik. (Környezetvédelmi besorolás: 5N)
+
+
+Üzemanyagcellás elektromos autó
+Szintén tisztán elektromos autó, amiben a meghajtáshoz szükséges energiát nem hagyományos akkumulátorban, hanem folyékony hidrogén formájában tárolják. A hidrogén elõnye, hogy gyorsan tankolható, így a 20-60 perces akkumulátortöltéssel szemben a hidrogéntartály néhány perc alatt újratölthetõ. A hidrogénbõl egy üzemanyagcella (innen az angol fuel cell electric vehicle, FCEV vagy FCV elnevezés) állítja elõ az elektromos áramot, amit azután a tisztán elektromos meghajtás tud hasznosítani. Az ilyen rendszerekben általában egy akkumulátor is megtalálható, amit az üzemanyagcella és a motorok közé ékelnek be az üzemanyag cella által és a regeneratív fékezés által termelt áram átmeneti tárolására. Bár több autógyártó is belefogott üzemanyagcellás autók fejlesztésébe, egyelõre úgy tûnik, hogy a hidrogén elõállításának, szállításának és a töltõhálózat kiépítésének rendkívül magas költsége miatt ez a hajtási mód egyelõre nem fog elterjedni. Ezek az autók a cikk írásának idején kereskedelmi forgalomban még nem kaphatók (néhány teszt projekttõl eltekintve).
+
+
+
+Tisztán elektromos autó
+Ez az az autótípus, amit a legtöbb villanyautós elektromos autóként elismer. Az energiát akkumulátorba (jelenleg többnyire lítium-ion) töltve viszi magával, csak külsõ forrásból tölthetõ, robbanómotort nem tartalmaz és tisztán elektromos motorokkal mûködik. Az akkumulátorok magas ára, nagy tömege és relatíve kis kapacitása miatt a középkategóriás modellek hatótávja 100-250 km, ami miatt elsõsorban városi és elõvárosi közlekedésre alkalmasak. Kaphatók már azonban olyan modellek is (pl. Tesla Model S, Model X), amelyek egyetlen töltéssel akár 400-500 km megtételére képesek, és a középkategóriába is érkeznek a 300-500 km-es hatótávolságú változatok. A jövõben az akkumulátor helyére a jövõben más, hatékonyabb energiatároló rendszer is beszerelhetõ. A tisztán elektromos autó elõnye a nulla lokális szennyezés, a hangtalan és rezgésmentes üzem, a nagy nyomaték, az otthoni tölthetõség, a minimális karbantartási igény és a rendkívül olcsó üzemeltetés. A tisztán elektromos autók elõnyeirõl külön oldalon írtunk. A kategóriát az angol battery electric vehicle kifejezésbõl származó BEV szóval jelöljük. (Környezetvédelmi besorolás: 5E)
+
+Forrás: villanyautosok.hu
+https://villanyautosok.hu/elektromos-auto/
+
+
+„ Kérem ne felejtse el elhozni a jogosítványát” 
