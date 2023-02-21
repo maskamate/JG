@@ -1,0 +1,11 @@
+
+import random
+while True:
+    dobas = random.choice(["írás","fej"])
+    dobas1 = input("Fej vagy írás? ")
+    if dobas1 == dobas:
+        print("Eltaláltad!")
+        break
+    else:
+        print("Nem találtad el! xD")
+        continue
