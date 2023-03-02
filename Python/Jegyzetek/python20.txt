@@ -1,5 +1,6 @@
-szamlalo=1
-while szamlalo!=11:
-    if szamlalo%2==0:
-        print(szamlalo)
-    szamlalo+=1
+lista = []
+nev = None
+while nev != "":
+    nev = input("Adjon meg keresztneveket! ")
+    lista.append(nev)
+print(*lista, sep="\n")
